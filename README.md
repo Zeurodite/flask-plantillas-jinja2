@@ -1,4 +1,4 @@
-# Actividad: Módulo 1 - Lección 2
+# Actividad: Módulo 2 - Lección 1
 
 Este repositorio contiene una aplicación Flask desarrollada como parte de la actividad sobre el uso de plantillas HTML dinámicas utilizando Jinja2. La aplicación demuestra la separación entre lógica de servidor (Back-End) y presentación (Front-End), usando herencia de plantillas y renderizado de datos dinámicos.
 
