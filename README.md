@@ -24,7 +24,7 @@ flask-plantillas-jinja2/
 1. Clona este repositorio:
 
 ```bash
-[git clone https://github.com/tu_usuario/flask-plantillas-jinja2.git](https://github.com/Zeurodite/flask-plantillas-jinja2.git)
+https://github.com/Zeurodite/flask-plantillas-jinja2.git
 cd flask-plantillas-jinja2
 ```
 
