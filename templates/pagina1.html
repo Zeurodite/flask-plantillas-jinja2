@@ -1,0 +1,12 @@
+
+{% extends "base.html" %}
+{% block title %}Tecnologías{% endblock %}
+{% block content %}
+<h2>Tecnologías utilizadas en este proyecto</h2>
+<p>A continuación se presenta una lista de tecnologías que se están utilizando:</p>
+<ul>
+    {% for tech in tecnologias %}
+    <li>{{ tech }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
