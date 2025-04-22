@@ -71,13 +71,7 @@ La aplicación utiliza `base.html` como plantilla principal y aplica la herencia
 
 Las capturas de pantalla y explicaciones están documentadas en el archivo `DOCUMENTACION.pdf`.
 
-## 📤 Entrega
 
-Este repositorio debe subirse a GitHub como parte de la entrega del curso. Asegúrate de incluir:
-
-- Código fuente y plantillas
-- `requirements.txt`
-- `DOCUMENTACION.pdf`
 - Este archivo `README.md`
 
 ✍️ _Autor: Abdiel Rodríguez_  
